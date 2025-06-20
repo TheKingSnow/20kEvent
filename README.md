@@ -89,7 +89,7 @@ q "**What is the most popular role in GoTCord?**"
 a "House Targaryen", "Targaryen"
 
 q "**GoTCord used to have a role for Kingsguard-in-training. What was that role?**"
-a "Goldcloaks", "Goldcloak"
+a "Goldcloaks", "Goldcloak", "Gold Cloaks", "Gold Cloak"
 
 q "**To which house did Aegon I Targaryen grant Harrenhal after House Hoare’s extinction?**"
 a "House Qoherys", "Qoherys"
@@ -101,7 +101,7 @@ q "**One house goes extinct following THE LONG NIGHT. Name it!**"
 a "House Mormont", "Mormont"
 
 q "**In cuddlefishcat’s ‘MMD did nothing wrong’ role, what does MMD stand for?**"
-a "Mirri Maz Durr"
+a "Mirri Maz Duur"
 
 q "**In *The Sworn Sword*, Dunk & Egg help solve a dispute between which two characters? (Name one.)**"
 a "Rohanne Webber and Eustace Osgrey", "Rohanne Webber", "Rohanne", "Eustace Osgrey", "Eustace"
@@ -121,7 +121,7 @@ a "zo Loraq"
 q "**Yezzan...**"
 a "zo Qaggaz"
 
-q "**True or False: Jaenara Belaerys flew so across Sothoryos that she ended up in Westeros.**"
+q "**True or False: Jaenara Belaerys flew so far across Sothoryos that she ended up in Westeros.**"
 a "False"
 
 q "**‘When you play the game of thrones, you win or you die.’ Who said it?**"
