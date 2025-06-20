@@ -97,8 +97,8 @@ a "House Qoherys", "Qoherys"
 q "**In *GAME OF THRONES*, who is the final named human we see on screen not named Jon Snow?**"
 a "Tormund Giantsbane", "Tormund"
 
-q "**One house goes extinct following THE LONG NIGHT. Name it!**"
-a "House Mormont", "Mormont"
+q "**Two houses go extinct following THE LONG NIGHT. Name one!**"
+a "House Mormont and House Karstark", "House Mormont", "House Karstark", "Mormont", "Karstark"
 
 q "**In cuddlefishcat’s ‘MMD did nothing wrong’ role, what does MMD stand for?**"
 a "Mirri Maz Duur"
@@ -145,17 +145,17 @@ a "House Maegyr", "Maegyr"
 q "**What is the OST that plays during the final scene of *GAME OF THRONES*?**"
 a "A Song of Ice and Fire"
 
-q "**What is the OST that plays during the final scene of Season 3 of *GAME OF THRONES*?**"
+q "**What is the OST that plays during the final scene of Season 3 of *GAME OF THRONES*? Hint: episode title!**"
 a "Mhysa"
 
-q "**What is the OST that plays during the final scene of Season 4 of *GAME OF THRONES*?**"
+q "**What is the OST that plays during the final scene of Season 4 of *GAME OF THRONES*? Hint: episode title!**"
 a "The Children"
 
 q "**Ramin Djawadi, composer for GOT and HOTD, composed what other HBO Original Series?**"
 a "Westworld"
 
 q "**Who is the last named character to die in *GAME OF THRONES*?**"
-a "Daenerys Targaryen", "Daenerys"
+a "Daenerys Targaryen", "Daenerys", "Dany"
 
 q "**Who is the first named character to die in *GAME OF THRONES*?**"
 a "Ser Waymar Royce", "Waymar", "Waymar Royce"
@@ -176,4 +176,4 @@ q "**In the books, what was Barristan Selmy’s secret identity?**"
 a "Arstan Whitebeard", "Arstan"
 
 q "**What is the most powerful piece in the game Cyvasse?**"
-a "The Dragon", "Dragon"
+a "The Dragon", "Dragon", "A Dragon"
