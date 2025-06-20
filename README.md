@@ -4,7 +4,7 @@ a "The First Men"
 q "**What was George RR Martin's original title for the final book of ASOIAF?**"
 a "A Time for Wolves"
 
-q "**Although there are 19 castles on the wall, the Night's Watch has only manned a MAXIMUM of how many at once?**"
+q "**Of the19 castles on the wall, what is the MAXIMUM the Night's Watch has had manned at one time?**"
 a "17", "seventeen"
 
 q "**At the end of *A Dance with Dragons,* who is the final POV character (excluding Epilogue)?**"
